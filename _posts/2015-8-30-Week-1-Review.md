@@ -3,7 +3,7 @@ layout: post
 title: Week 1 Review
 ---
 
-## Weekly Review
+## Weekly Review (8/30/15)
 
 It's Sunday afternoon on the 30th of August, and I've finally managed to set this Jekyll thing up, which means I can now talk about my time in the class this past week! Hooray!
 
